@@ -1,2 +1,5 @@
-is.prime <- function(n){}
+is.prime <- function(n){
+n == 1 
+  m==2
+}
 
